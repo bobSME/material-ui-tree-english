@@ -171,7 +171,7 @@ class MuiTreeBranch extends React.Component {
                   <ListItemText
                     inset
                     disableTypography
-                    primary={`已加载${(childrenPage + 1) * childrenCountPerPage}/${children.length}，点击加载更多...`}
+                    primary={`Showing ${(childrenPage + 1) * childrenCountPerPage} of ${children.length}，Load more...`}
                     className={cn(classes.treeText, classes.treeTextButton)}
                   />
                 </ListItem>
