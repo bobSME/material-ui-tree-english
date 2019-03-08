@@ -234,7 +234,7 @@ var MuiTreeBranch = function (_React$Component) {
             _react2.default.createElement(_ListItemText2.default, {
               inset: true,
               disableTypography: true,
-              primary: '\u5DF2\u52A0\u8F7D' + (childrenPage + 1) * childrenCountPerPage + '/' + children.length + '\uFF0C\u70B9\u51FB\u52A0\u8F7D\u66F4\u591A...',
+              primary: 'Showing ' + (childrenPage + 1) * childrenCountPerPage + ' of ' + children.length + '\uFF0CLoad more...',
               className: (0, _classnames2.default)(classes.treeText, classes.treeTextButton)
             })
           ) : null

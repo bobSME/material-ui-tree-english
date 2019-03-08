@@ -1,8 +1,8 @@
 {
-  "name": "material-ui-tree",
-  "homepage": "https://github.com/shallinta/material-ui-tree",
+  "name": "material-ui-tree-english",
+  "homepage": "https://github.com/bobSME/material-ui-tree-english",
   "keywords": "tree, react, component, material design, material-ui",
-  "author": "johnch",
+  "author": "bobSME",
   "version": "1.0.11",
   "main": "dist/component/index.js",
   "module": "src/component/index.js",
